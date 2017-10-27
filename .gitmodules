@@ -4,3 +4,6 @@
 [submodule "sandbox.iot.beaglbone"]
 	path = sandbox.iot.beaglbone
 	url = https://github.com/kjwenger/sandbox.iot.beaglbone.git
+[submodule "sandbox.iot.raspberrypi"]
+	path = sandbox.iot.raspberrypi
+	url = https://github.com/kjwenger/sandbox.iot.raspberrypi.git
