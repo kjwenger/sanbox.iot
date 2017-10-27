@@ -1,0 +1,6 @@
+[submodule "sandbox.iot.arduino"]
+	path = sandbox.iot.arduino
+	url = https://github.com/kjwenger/sandbox.iot.arduino.git
+[submodule "sandbox.iot.beaglbone"]
+	path = sandbox.iot.beaglbone
+	url = https://github.com/kjwenger/sandbox.iot.beaglbone.git
