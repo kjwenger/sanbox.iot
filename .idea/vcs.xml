@@ -4,6 +4,9 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sandbox.iot.arduino" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sandbox.iot.beaglebone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sandbox.iot.beaglebone/mbpoll" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sandbox.iot.coap" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sandbox.iot.raspberrypi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sandbox.iot.raspberrypi/mbpoll" vcs="Git" />
   </component>
 </project>
