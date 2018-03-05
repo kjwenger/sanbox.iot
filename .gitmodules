@@ -7,3 +7,6 @@
 [submodule "sandbox.iot.beaglebone"]
 	path = sandbox.iot.beaglebone
 	url = https://github.com/kjwenger/sandbox.iot.beaglebone.git
+[submodule "sandbox.iot.coap"]
+	path = sandbox.iot.coap
+	url = https://github.com/kjwenger/sandbox.iot.coap.git
