@@ -10,3 +10,9 @@
 [submodule "sandbox.iot.coap"]
 	path = sandbox.iot.coap
 	url = https://github.com/kjwenger/sandbox.iot.coap.git
+[submodule "sandbox.iot.forlinx"]
+	path = sandbox.iot.forlinx
+	url = https://github.com/kjwenger/sandbox.iot.forlinx.git
+[submodule "sandbox.iot.reliagate"]
+	path = sandbox.iot.reliagate
+	url = https://github.com/kjwenger/sandbox.iot.reliagate.git
